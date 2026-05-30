@@ -160,7 +160,40 @@ Location    : Hyderabad, Telangana, India
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hack3rslabs&theme=flat&column=4&no-frame=true&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Experience,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
+| 🏅 | Achievement | Details |
+|:---:|:---|:---|
+| 🛡️ | **AZ-500 — Azure Security Engineer Associate** | Microsoft Certified · Active |
+| ☁️ | **AZ-104 — Azure Administrator Associate** | Microsoft Certified · Active |
+| ⏱️ | **6+ Years Cloud & DevSecOps Engineering** | GitHub member since June 2018 |
+| 🚀 | **Startup India — Registered Founder** | TWIIS Innovation OPC Pvt Ltd |
+| 🎓 | **EdTech Entrepreneur** | Techwell · 50+ courses · 9 domains |
+| 💻 | **Multi-Language Developer** | TypeScript · Python · JS · PowerShell · Bash |
+| 🔥 | **Consistent Builder** | 116+ commits · 9 active repositories |
+| 🌐 | **Full-Stack DevSecOps** | Cloud → Code → Security → Deploy |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+&nbsp;
+![AZ-500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+&nbsp;
+![Since 2018](https://img.shields.io/badge/GitHub%20Since-2018-181717?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![6+ Years](https://img.shields.io/badge/Experience-6%2B%20Years-1565c0?style=for-the-badge&logoColor=white)
+
+<br/><br/>
+
+![Founder](https://img.shields.io/badge/Founder-TWIIS%20Innovation-ff6f00?style=for-the-badge&logoColor=white)
+&nbsp;
+![Techwell](https://img.shields.io/badge/Founder-Techwell%20EdTech-1976d2?style=for-the-badge&logoColor=white)
+&nbsp;
+![Commits](https://img.shields.io/badge/Commits-116%2B-e65100?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![Repos](https://img.shields.io/badge/Repositories-9%20Active-546e7a?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
