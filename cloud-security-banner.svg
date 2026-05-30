@@ -1,0 +1,168 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050510"/>
+      <stop offset="40%" style="stop-color:#0d0730"/>
+      <stop offset="75%" style="stop-color:#1e1060"/>
+      <stop offset="100%" style="stop-color:#2d1b69"/>
+    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Pulse animation for circles -->
+    <radialGradient id="node1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Grid lines -->
+  <g stroke="#4338ca" stroke-width="0.3" opacity="0.25">
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="100" y1="0" x2="100" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="500" y1="0" x2="500" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="700" y1="0" x2="700" y2="200"/>
+    <line x1="800" y1="0" x2="800" y2="200"/>
+  </g>
+
+  <!-- Animated node network lines -->
+  <g stroke="#7c3aed" stroke-width="1" opacity="0.5" filter="url(#glow)">
+    <line x1="80" y1="60" x2="200" y2="100">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="200" y1="100" x2="350" y2="50">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="350" y1="50" x2="500" y2="130">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="500" y1="130" x2="650" y2="70">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="650" y1="70" x2="820" y2="110">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="200" y1="100" x2="500" y2="130">
+      <animate attributeName="opacity" values="0.1;0.5;0.1" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="350" y1="50" x2="650" y2="70">
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="4.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Network nodes (pulsing circles) -->
+  <!-- Node 1 -->
+  <circle cx="80" cy="60" r="18" fill="#1e1060" stroke="#a855f7" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="r" values="16;20;16" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="80" y="65" text-anchor="middle" font-size="14" fill="#a855f7" font-family="monospace">🔐</text>
+
+  <!-- Node 2 -->
+  <circle cx="200" cy="100" r="18" fill="#1e1060" stroke="#7c3aed" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="r" values="18;14;18" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="200" y="105" text-anchor="middle" font-size="14" fill="#a855f7" font-family="monospace">☁️</text>
+
+  <!-- Node 3 -->
+  <circle cx="350" cy="50" r="18" fill="#1e1060" stroke="#6d28d9" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="r" values="14;20;14" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="350" y="55" text-anchor="middle" font-size="14" fill="#c4b5fd" font-family="monospace">🛡️</text>
+
+  <!-- Node 4 - center -->
+  <circle cx="500" cy="130" r="22" fill="#2d1b69" stroke="#a855f7" stroke-width="2" filter="url(#glow-strong)">
+    <animate attributeName="r" values="20;26;20" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500" y="136" text-anchor="middle" font-size="16" fill="#e9d5ff" font-family="monospace">⚡</text>
+
+  <!-- Node 5 -->
+  <circle cx="650" cy="70" r="18" fill="#1e1060" stroke="#7c3aed" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="r" values="16;21;16" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="650" y="75" text-anchor="middle" font-size="14" fill="#a855f7" font-family="monospace">🔑</text>
+
+  <!-- Node 6 -->
+  <circle cx="820" cy="110" r="18" fill="#1e1060" stroke="#6d28d9" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="r" values="18;13;18" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="820" y="115" text-anchor="middle" font-size="14" fill="#a855f7" font-family="monospace">☁️</text>
+
+  <!-- Floating data packets on lines -->
+  <circle r="3" fill="#f59e0b" filter="url(#glow)">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M80,60 L200,100 L350,50 L500,130 L650,70 L820,110"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3" fill="#a855f7" filter="url(#glow)">
+    <animateMotion dur="5s" repeatCount="indefinite" begin="1.5s" path="M820,110 L650,70 L500,130 L350,50 L200,100 L80,60"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" dur="5s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+  <circle r="2.5" fill="#e9d5ff" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" begin="0.8s" path="M200,100 L500,130 L820,110"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" begin="0.8s"/>
+  </circle>
+
+  <!-- Tech labels floating above nodes -->
+  <text x="80" y="38" text-anchor="middle" font-size="8" fill="#c4b5fd" font-family="monospace" opacity="0.8">
+    Zero-Trust
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="200" y="78" text-anchor="middle" font-size="8" fill="#c4b5fd" font-family="monospace" opacity="0.8">
+    Azure Cloud
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="28" text-anchor="middle" font-size="8" fill="#c4b5fd" font-family="monospace" opacity="0.8">
+    DevSecOps
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="108" text-anchor="middle" font-size="8" fill="#e9d5ff" font-family="monospace" font-weight="bold">
+    CI/CD Pipeline
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="650" y="48" text-anchor="middle" font-size="8" fill="#c4b5fd" font-family="monospace">
+    AZ-500
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="820" y="88" text-anchor="middle" font-size="8" fill="#c4b5fd" font-family="monospace">
+    Kubernetes
+    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Scanning line animation -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#bg)" opacity="0">
+    <animate attributeName="y" values="-2;202" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.15;0.15;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="0" width="900" height="1" fill="#7c3aed" opacity="0">
+    <animate attributeName="y" values="-1;201" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.4;0.4;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Central text -->
+  <text x="450" y="175" text-anchor="middle" font-size="10" fill="#6d28d9" font-family="monospace" letter-spacing="6">
+    SECURE  ·  AUTOMATE  ·  SCALE  ·  INNOVATE
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
