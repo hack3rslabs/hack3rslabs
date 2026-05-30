@@ -22,6 +22,16 @@
 
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/cloud-security-banner.svg" alt="Cloud Security Network Animation" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/terminal-animation.svg" alt="DevSecOps Terminal" width="100%"/>
+</div>
+
+---
+
 ## 🧑‍💼 Professional Summary
 
 <table width="100%">
@@ -87,6 +97,14 @@ Location    : Hyderabad, Telangana, India
 ---
 
 ## ⚙️ Tech Stack
+
+<div align="center">
+
+[![Cloud & DevSecOps Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,github,githubactions,ansible,grafana,prometheus,vscode,python,typescript,nodejs,react,bash,linux&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
 
 <div align="center">
 
