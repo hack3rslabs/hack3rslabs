@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1628,55:0d3b7a,85:1565c0,100:1976d2&height=230&section=header&text=Purushottam%20Rao&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Founder&descAlignY=55&descColor=90caf9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,15:0d0730,40:1e1060,68:4338ca,85:7c3aed,100:a855f7&height=240&section=header&text=Purushottam%20Rao&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Founder&descAlignY=56&descColor=e9d5ff&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=42A5F5&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500+Certified;Founder+%40+Techwell+%26+TWIIS+Innovation+Pvt+Ltd;6%2B+Years+Cloud+%26+Infrastructure+Engineering;Building+Secure+Multi-Tenant+Platforms+on+Azure;Open+to+Global+Opportunities+--+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=a78bfa&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500+Certified;Founder+%40+Techwell+%26+TWIIS+Innovation+Pvt+Ltd;6%2B+Years+Cloud+%26+Infrastructure+Engineering;Building+Secure+Multi-Tenant+Platforms+on+Azure;Open+to+Global+Opportunities+--+Hyderabad%2C+India" alt="Typing SVG" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=1565c0&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=7c3aed&style=flat-square)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=1565c0&labelColor=0d1117)](https://github.com/hack3rslabs?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/hack3rslabs?tab=followers)
 &nbsp;
 [![GitHub Repos](https://img.shields.io/badge/Repositories-9-1976d2?style=flat-square&logo=github&logoColor=white)](https://github.com/hack3rslabs?tab=repositories)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-00c853?style=flat-square&logo=checkmarx&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-059669?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -74,11 +74,11 @@ Location    : Hyderabad, Telangana, India
 
 <br/><br/>
 
-![Years](https://img.shields.io/badge/Experience-6%2B%20Years-42a5f5?style=for-the-badge&logo=calendar&logoColor=white)
+![Years](https://img.shields.io/badge/Experience-6%2B%20Years-7c3aed?style=for-the-badge&logo=calendar&logoColor=white)
 &nbsp;
-![Commits](https://img.shields.io/badge/Total%20Commits-116%2B-1976d2?style=for-the-badge&logo=git&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-116%2B-6d28d9?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
-![Repos](https://img.shields.io/badge/Repositories-9%20Active-ff6f00?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-9%20Active-f59e0b?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
 ![Ventures](https://img.shields.io/badge/Ventures%20Founded-2-ffd600?style=for-the-badge&logo=rocket&logoColor=black)
 
@@ -142,7 +142,7 @@ Location    : Hyderabad, Telangana, India
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hack3rslabs&theme=dark&background=0d1117&border=1565c0&ring=42a5f5&fire=ff6f00&currStreakLabel=42a5f5&sideLabels=90caf9&dates=546e7a&currStreakNum=ffffff&sideNums=ffffff&border_radius=10&stroke=1565c0" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=hack3rslabs&theme=dark&background=0d0a1e&border=7c3aed&ring=a855f7&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=10&stroke=7c3aed" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -150,7 +150,7 @@ Location    : Hyderabad, Telangana, India
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0d1117&color=42a5f5&line=1565c0&point=ff6f00&area=true&area_color=1565c040&hide_border=true&radius=8&custom_title=Contribution%20Activity%20Graph)](https://github.com/hack3rslabs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0d0a1e&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed30&hide_border=false&border_color=7c3aed&radius=8&custom_title=Contribution%20Activity%20Graph)](https://github.com/hack3rslabs)
 
 </div>
 
@@ -183,17 +183,17 @@ Location    : Hyderabad, Telangana, India
 &nbsp;
 ![Since 2018](https://img.shields.io/badge/GitHub%20Since-2018-181717?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
-![6+ Years](https://img.shields.io/badge/Experience-6%2B%20Years-1565c0?style=for-the-badge&logoColor=white)
+![6+ Years](https://img.shields.io/badge/Experience-6%2B%20Years-7c3aed?style=for-the-badge&logoColor=white)
 
 <br/><br/>
 
-![Founder](https://img.shields.io/badge/Founder-TWIIS%20Innovation-ff6f00?style=for-the-badge&logoColor=white)
+![Founder](https://img.shields.io/badge/Founder-TWIIS%20Innovation-f59e0b?style=for-the-badge&logoColor=white)
 &nbsp;
-![Techwell](https://img.shields.io/badge/Founder-Techwell%20EdTech-1976d2?style=for-the-badge&logoColor=white)
+![Techwell](https://img.shields.io/badge/Founder-Techwell%20EdTech-6d28d9?style=for-the-badge&logoColor=white)
 &nbsp;
-![Commits](https://img.shields.io/badge/Commits-116%2B-e65100?style=for-the-badge&logo=git&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-116%2B-7c3aed?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
-![Repos](https://img.shields.io/badge/Repositories-9%20Active-546e7a?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-9%20Active-4338ca?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -230,7 +230,7 @@ Location    : Hyderabad, Telangana, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hack3rslabs)
 &nbsp;
-[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Our%20Institute-1565c0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techwell.co.in)
+[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Our%20Institute-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techwell.co.in)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottam@techwell.co.in)
 
@@ -264,6 +264,6 @@ Location    : Hyderabad, Telangana, India
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,40:1565c0,75:0a1628,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:4338ca,75:1e1060,100:050510&height=130&section=footer&animation=fadeIn" />
 
 </div>
