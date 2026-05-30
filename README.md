@@ -136,12 +136,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hack3rslabs&show_icons=true&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&icon_color=ff6b2b&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=hack3rslabs&show_icons=true&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&icon_color=ff6b2b&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&border_radius=12" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hack3rslabs&background=0a0f1e&border=0066cc&ring=00d4ff&fire=ff6b2b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack3rslabs&layout=compact&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&text_color=c9d1d9&langs_count=8&border_radius=12" />
+<img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hack3rslabs&layout=compact&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&text_color=c9d1d9&langs_count=8&border_radius=12" />
 
 </div>
 
@@ -151,8 +151,8 @@
 
 <div align="center">
 
-[![techwell-lms](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=techwell-lms&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12)](https://github.com/hack3rslabs/techwell-lms)
-[![Ledgerbook](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=Ledgerbook&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12)](https://github.com/hack3rslabs/Ledgerbook)
+[![techwell-lms](https://github-readme-stats-fast.vercel.app/api/pin/?username=hack3rslabs&repo=techwell-lms&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12)](https://github.com/hack3rslabs/techwell-lms)
+[![Ledgerbook](https://github-readme-stats-fast.vercel.app/api/pin/?username=hack3rslabs&repo=Ledgerbook&bg_color=0a0f1e&border_color=0066cc&title_color=00d4ff&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12)](https://github.com/hack3rslabs/Ledgerbook)
 
 </div>
 
