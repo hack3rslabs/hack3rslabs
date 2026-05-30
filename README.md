@@ -150,7 +150,7 @@ Location    : Hyderabad, Telangana, India
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0d1117&color=42a5f5&line=1565c0&point=ff6f00&area=true&area_color=1565c040&hide_border=false&border_color=1565c0&radius=8&custom_title=Purushottam%20--%20Contribution%20Graph)](https://github.com/hack3rslabs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0d1117&color=42a5f5&line=1565c0&point=ff6f00&area=true&area_color=1565c040&hide_border=true&radius=8&custom_title=Contribution%20Activity%20Graph)](https://github.com/hack3rslabs)
 
 </div>
 
@@ -160,7 +160,7 @@ Location    : Hyderabad, Telangana, India
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hack3rslabs&theme=discord&column=7&no-frame=false&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hack3rslabs&theme=flat&column=4&no-frame=true&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Experience,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
