@@ -1,54 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d1f4a,60:0055b3,100:00aadd&height=220&section=header&text=Purushottam%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Founder&descAlignY=58&descColor=66ccff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1628,55:0d3b7a,85:1565c0,100:1976d2&height=230&section=header&text=Purushottam%20Rao&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Founder&descAlignY=55&descColor=90caf9&animation=fadeIn" />
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=00AADD&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500;Founder+%40+Techwell+%26+TWIIS+Innovation+Pvt+Ltd;6%2B+Years+Cloud+%26+Infrastructure+Engineering;AI+Agent+Systems+%7C+Azure+OpenAI+%7C+GitHub+Copilot;Hyderabad%2C+India+--+Open+to+Global+Opportunities" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=42A5F5&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500+Certified;Founder+%40+Techwell+%26+TWIIS+Innovation+Pvt+Ltd;6%2B+Years+Cloud+%26+Infrastructure+Engineering;Building+Secure+Multi-Tenant+Platforms+on+Azure;Open+to+Global+Opportunities+--+Hyderabad%2C+India" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://github.com/hack3rslabs"><img src="https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile+Views&color=0055b3&style=flat-square" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=1565c0&style=flat-square)
 &nbsp;
-<a href="https://techwell.co.in"><img src="https://img.shields.io/badge/techwell.co.in-0055b3?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=1565c0&labelColor=0d1117)](https://github.com/hack3rslabs?tab=followers)
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00aa55?style=flat-square&logo=checkmarx&logoColor=white" />
+[![GitHub Repos](https://img.shields.io/badge/Repositories-9-1976d2?style=flat-square&logo=github&logoColor=white)](https://github.com/hack3rslabs?tab=repositories)
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-ff6b2b?style=flat-square&logo=googlemaps&logoColor=white" />
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-00c853?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
 ---
 
+## 🧑‍💼 Professional Summary
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 As an Engineer
+### 👨‍💻 Engineer Profile
 ```yaml
-experience  : 6+ Years Azure Cloud & DevSecOps
-cert_1      : AZ-104 Azure Administrator
-cert_2      : AZ-500 Azure Security Engineer
-platforms   : Azure · AKS · Docker · Kubernetes
-automation  : Terraform · Ansible · GitHub Actions
-specialty   : Multi-Tenant Platform Architecture
-ai_tools    : GitHub Copilot · Azure OpenAI
-approach    : Security-first, scalable-by-design
+Role        : DevSecOps & Cloud Engineer
+Experience  : 6+ Years
+Cert 1      : AZ-104  Azure Administrator
+Cert 2      : AZ-500  Azure Security Engineer
+Platforms   : Azure · AKS · Docker · Kubernetes
+Automation  : Terraform · Ansible · GitHub Actions
+Security    : Sentinel · Defender · OWASP · SAST
+AI Tools    : GitHub Copilot · Azure OpenAI
+Specialty   : Multi-Tenant Secure Architectures
+GitHub Since: Jun 2018
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 As an Entrepreneur
+### 🚀 Entrepreneur Profile
 ```yaml
-company_1   : TWIIS Innovation OPC Pvt Ltd
-company_2   : Techwell - IT Training & Placement
-courses     : 50+ across 9 tech domains
-products    : LMS · ERP · JobBridge Platform
-impact      : 100s of IT professionals placed
-model       : Product + Sales + Ops in-house
-tech        : Azure OpenAI powered training tools
-brand       : Growing EdTech brand in Hyderabad
+Company 1   : TWIIS Innovation OPC Pvt Ltd
+              (Startup India Registered)
+Company 2   : Techwell - IT Training & Placement
+Website     : techwell.co.in
+Courses     : 50+ across 9 tech domains
+Products    : LMS · ERP · JobBridge Platform
+Focus       : DevSecOps · Cloud · AI/ML Training
+Impact      : 100s of IT professionals placed
+Location    : Hyderabad, Telangana, India
 ```
 
 </td>
@@ -57,23 +64,23 @@ brand       : Growing EdTech brand in Hyderabad
 
 ---
 
-## 🏆 Certifications & Highlights
+## 🏅 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-AZ--104%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 &nbsp;
-<img src="https://img.shields.io/badge/Microsoft-AZ--500%20Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+[![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/6%2B%20Years-Cloud%20Engineering-00aadd?style=for-the-badge&logoColor=white" />
+![Years](https://img.shields.io/badge/Experience-6%2B%20Years-42a5f5?style=for-the-badge&logo=calendar&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/10%2B%20Repositories-Active%20Projects-ff6b2b?style=for-the-badge&logo=github&logoColor=white" />
+![Commits](https://img.shields.io/badge/Total%20Commits-116%2B-1976d2?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/137%20Contributions-2025--2026-00aa55?style=for-the-badge&logoColor=white" />
+![Repos](https://img.shields.io/badge/Repositories-9%20Active-ff6f00?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/2%20Ventures-Founded-ffd700?style=for-the-badge&logoColor=black" />
+![Ventures](https://img.shields.io/badge/Ventures%20Founded-2-ffd600?style=for-the-badge&logo=rocket&logoColor=black)
 
 </div>
 
@@ -81,141 +88,149 @@ brand       : Growing EdTech brand in Hyderabad
 
 ## ⚙️ Tech Stack
 
-**Cloud & Infrastructure**
+<div align="center">
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![AKS](https://img.shields.io/badge/Azure_AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**☁️ Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure%20AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Containers & Orchestration**
+**🐳 Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-**Automation & CI/CD**
+**⚙️ Automation & CI/CD**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Security & Observability**
+**🔐 Security & Observability**
 
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Defender](https://img.shields.io/badge/Defender_for_Cloud-00B4D8?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Defender](https://img.shields.io/badge/Defender%20for%20Cloud-00B4D8?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-**Languages & Frameworks**
+**💻 Languages & Frameworks**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI & Dev Tools**
+**🤖 AI & Developer Tools**
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D4783A?style=for-the-badge&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D4783A?style=for-the-badge&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hack3rslabs&show_icons=true&bg_color=0a0f1e&border_color=0055b3&title_color=00aadd&icon_color=ff6b2b&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=hack3rslabs&background=0a0f1e&border=0055b3&ring=00aadd&fire=ff6b2b&currStreakLabel=00aadd&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=hack3rslabs&theme=dark&background=0d1117&border=1565c0&ring=42a5f5&fire=ff6f00&currStreakLabel=42a5f5&sideLabels=90caf9&dates=546e7a&currStreakNum=ffffff&sideNums=ffffff&border_radius=10&stroke=1565c0" alt="GitHub Streak Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0d1117&color=42a5f5&line=1565c0&point=ff6f00&area=true&area_color=1565c040&hide_border=false&border_color=1565c0&radius=8&custom_title=Purushottam%20--%20Contribution%20Graph)](https://github.com/hack3rslabs)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hack3rslabs&theme=discord&column=7&no-frame=false&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🏗️ Projects & Repositories
+
+### 📌 Public Repositories
+
+| Repository | Description | Language | Status |
+|:---|:---|:---:|:---:|
+| [**techwell-lms**](https://github.com/hack3rslabs/techwell-lms) | Full-stack Learning Management System for IT training institute | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+| [**twiis**](https://github.com/hack3rslabs/twiis) | TWIIS Innovations — Startup India registered DevSecOps company | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+| [**SMS-ERP**](https://github.com/hack3rslabs/SMS-ERP) | Secure multi-tenant school management ERP platform | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+| [**Elements**](https://github.com/hack3rslabs/Elements) | E-commerce platform for ceramic & construction materials | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+| [**Hibeaminfotech**](https://github.com/hack3rslabs/Hibeaminfotech) | IT solutions company website — Visakhapatnam | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+| [**Assetmgmt**](https://github.com/hack3rslabs/Assetmgmt) | Enterprise asset management system | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+| [**Training_Modules**](https://github.com/hack3rslabs/Training_Modules) | IT training course content and modules | ![Docs](https://img.shields.io/badge/Docs-546e7a?style=flat-square) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
+
+### 🎯 Key Career Projects
+
+| Project | Role | Impact | Stack |
+|:---|:---|:---|:---|
+| **NextGen Campus Platform** | Lead Architect | Secure multi-tenant university management with Azure AD | Azure · AKS · TypeScript · React |
+| **PatientCare360** | DevSecOps Lead | HIPAA-compliant healthcare platform with real-time monitoring | Docker · K8s · Node.js · Azure |
+| **Campus AD+** | Cloud Engineer | Azure Entra ID automation across campus environments | Azure AD · PowerShell · Ansible |
+| **SystemMetrics Agent** | Platform Engineer | Enterprise-wide Windows monitoring with GPO/Intune deploy | PowerShell · Azure Monitor |
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hack3rslabs)
+&nbsp;
+[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Our%20Institute-1565c0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techwell.co.in)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottam@techwell.co.in)
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack3rslabs&layout=compact&bg_color=0a0f1e&border_color=0055b3&title_color=00aadd&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages" />
+**💼 Available For**
+
+![DevSecOps](https://img.shields.io/badge/DevSecOps%20Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+&nbsp;
+![Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-1565c0?style=flat-square&logo=microsoftazure&logoColor=white)
+&nbsp;
+![Platform Engineer](https://img.shields.io/badge/Platform%20Engineering-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+&nbsp;
+![AI Engineering](https://img.shields.io/badge/AI%20%26%20ML%20Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+&nbsp;
+![Consulting](https://img.shields.io/badge/Tech%20Consulting-ff6f00?style=flat-square&logo=handshake&logoColor=white)
+&nbsp;
+![Advisor](https://img.shields.io/badge/Startup%20Advisor-ffd600?style=flat-square&logo=rocket&logoColor=black)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
-
 <div align="center">
-
-[![techwell-lms](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=techwell-lms&bg_color=0a0f1e&border_color=0055b3&title_color=00aadd&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12&show_owner=true)](https://github.com/hack3rslabs/techwell-lms)
-[![twiis](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=twiis&bg_color=0a0f1e&border_color=0055b3&title_color=00aadd&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12&show_owner=true)](https://github.com/hack3rslabs/twiis)
-
-[![SMS-ERP](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=SMS-ERP&bg_color=0a0f1e&border_color=0055b3&title_color=00aadd&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12&show_owner=true)](https://github.com/hack3rslabs/SMS-ERP)
-[![Elements](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=Elements&bg_color=0a0f1e&border_color=0055b3&title_color=00aadd&text_color=c9d1d9&icon_color=ff6b2b&border_radius=12&show_owner=true)](https://github.com/hack3rslabs/Elements)
-
-</div>
 
 <br/>
 
-| 🏷️ Project | 📋 Description | 🛠️ Stack | 🎯 Domain |
-|:---|:---|:---:|:---:|
-| 🎓 **NextGen Campus** | Secure multi-tenant university management platform | Azure · AKS · TypeScript | Enterprise |
-| 🏥 **PatientCare360** | HIPAA-compliant healthcare ops with real-time monitoring | Docker · K8s · Node.js | Healthcare |
-| 🏫 **Campus AD+** | Azure Entra ID automation for campus environments | Azure AD · PowerShell · Ansible | Education |
-| 🏢 **TWIIS Platform** | Corporate security & DevSecOps company website | HTML · Azure | Corporate |
-| 📚 **Techwell LMS** | Full-stack IT training & placement management system | TypeScript · React · Azure | EdTech |
+*"Security is not a product, but a process — build it into everything."*
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0a0f1e&color=00aadd&line=0055b3&point=ff6b2b&area=true&area_color=0055b340&hide_border=false&border_color=0055b3&radius=12&custom_title=Purushottam+Contribution+Graph)](https://github.com/hack3rslabs)
-
-</div>
-
----
-
-## 🥇 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hack3rslabs&theme=discord&column=7&no-frame=false&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hack3rslabs)
-[![Techwell](https://img.shields.io/badge/Techwell-Visit_Site-00aadd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techwell.co.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hack3rslabs)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottam@techwell.co.in)
+**Purushottam Rao** · hack3rslabs · [techwell.co.in](https://techwell.co.in) · Hyderabad, India 🇮🇳
 
 <br/>
 
-**💼 Open To**
-
-![DevSecOps](https://img.shields.io/badge/DevSecOps%20Roles-0078D4?style=flat-square&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-00aadd?style=flat-square&logoColor=white)
-![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-326CE5?style=flat-square&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI%20%26%20ML%20Engineering-412991?style=flat-square&logoColor=white)
-![Tech Consulting](https://img.shields.io/badge/Tech%20Consulting-ff6b2b?style=flat-square&logoColor=white)
-![Startup Advisor](https://img.shields.io/badge/Startup%20Advisor-ffd700?style=flat-square&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-> *"Security is not a product, but a process. Build it into everything."*
->
-> — **hack3rslabs** · [techwell.co.in](https://techwell.co.in) · Hyderabad, India 🇮🇳
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d1f4a,70:0055b3,100:00aadd&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,40:1565c0,75:0a1628,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
