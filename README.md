@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=a78bfa&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500+Certified;Founder+%40+Techwell+%26+TWIIS+Innovation+Pvt+Ltd;6%2B+Years+Cloud+%26+Infrastructure+Engineering;Building+Secure+Multi-Tenant+Platforms+on+Azure;Open+to+Global+Opportunities+--+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=a78bfa&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500+Certified;6%2B+Years+Cloud+%26+Infrastructure+Engineering;Building+Secure+Multi-Tenant+Platforms+on+Azure;Open+to+Global+Opportunities+--+Hyderabad%2C+India" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -55,15 +55,15 @@ GitHub Since: Jun 2018
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Entrepreneur Profile
+### 🚀 Expereince Profile
 ```yaml
-Company 1   : TWIIS Innovation OPC Pvt Ltd
-              (Startup India Registered)
+Skills      : IT Consultant · Trainer · Enterprenuer 
+Company 1   : IIHT Pvt Ltd
 Company 2   : Techwell - IT Training & Placement
-Website     : techwell.co.in
+Company 3   : GITAM University
 Courses     : 50+ across 9 tech domains
 Products    : LMS · ERP · JobBridge Platform
-Focus       : DevSecOps · Cloud · AI/ML Training
+Focus       : DevSecOps · APPSec · AI · Networking · Endpoint Security · Vibe coding
 Impact      : 100s of IT professionals placed
 Location    : Hyderabad, Telangana, India
 ```
@@ -183,8 +183,6 @@ Location    : Hyderabad, Telangana, India
 | 🛡️ | **AZ-500 — Azure Security Engineer Associate** | Microsoft Certified · Active |
 | ☁️ | **AZ-104 — Azure Administrator Associate** | Microsoft Certified · Active |
 | ⏱️ | **6+ Years Cloud & DevSecOps Engineering** | GitHub member since June 2018 |
-| 🚀 | **Startup India — Registered Founder** | TWIIS Innovation OPC Pvt Ltd |
-| 🎓 | **EdTech Entrepreneur** | Techwell · 50+ courses · 9 domains |
 | 💻 | **Multi-Language Developer** | TypeScript · Python · JS · PowerShell · Bash |
 | 🔥 | **Consistent Builder** | 116+ commits · 9 active repositories |
 | 🌐 | **Full-Stack DevSecOps** | Cloud → Code → Security → Deploy |
@@ -278,7 +276,7 @@ Location    : Hyderabad, Telangana, India
 
 *"Security is not a product, but a process — build it into everything."*
 
-**Purushottam Rao** · hack3rslabs · [techwell.co.in](https://techwell.co.in) · Hyderabad, India 🇮🇳
+**Purushottam Rao** · hack3rslabs  · Hyderabad, India 🇮🇳
 
 <br/>
 
