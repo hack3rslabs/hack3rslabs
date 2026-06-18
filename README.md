@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0f2545,60:1e3a5f,100:2c5282&height=230&section=header&text=Purushottam%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Technology%20Consultant%20%7C%20AI%20Automation%20Consultant%20%7C%20Application%20Security%20Consultant&descAlignY=58&descColor=cbd5e1&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=230&section=header&text=Purushottam%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Technology%20Consultant%20%7C%20AI%20Automation%20Consultant%20%7C%20Application%20Security%20Consultant&descAlignY=58&descColor=2563EB&animation=fadeIn" />
 
 <img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/consulting-banner.svg" alt="Consulting Value Flow" width="100%"/>
 
@@ -10,13 +10,13 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=1e3a5f&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=0F172A&style=flat-square)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=1e3a5f&labelColor=0a1628)](https://github.com/hack3rslabs?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=0F172A&labelColor=0F172A)](https://github.com/hack3rslabs?tab=followers)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20for%20Consulting%20Engagements-15803d?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20for%20Consulting%20Engagements-059669?style=flat-square)
 &nbsp;
-![Location](https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-475569?style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-2563EB?style=flat-square)
 
 </div>
 
@@ -113,31 +113,31 @@ I've built and delivered platforms across **EdTech, enterprise operations, and c
 
 **☁️ Cloud**
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0a1628?style=for-the-badge&logo=microsoftazure&logoColor=2563eb)
-![AWS](https://img.shields.io/badge/AWS-0a1628?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=2563EB)
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=2563EB)
 
 **🔐 Security**
 
-![OWASP](https://img.shields.io/badge/OWASP-1e293b?style=for-the-badge&logo=owasp&logoColor=white)
-![AppSec](https://img.shields.io/badge/Application%20Security-1e293b?style=for-the-badge&logo=shieldcheck&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-1e293b?style=for-the-badge&logo=gitlab&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-0F172A?style=for-the-badge&logo=owasp&logoColor=FFFFFF)
+![AppSec](https://img.shields.io/badge/Application%20Security-0F172A?style=for-the-badge&logoColor=FFFFFF)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-0F172A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF)
 
 **🤖 Automation**
 
-![n8n](https://img.shields.io/badge/n8n-1e293b?style=for-the-badge&logo=n8n&logoColor=ea4b71)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-1e293b?style=for-the-badge&logo=robotframework&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=2563EB)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge&logoColor=2563EB)
 
 **💻 Development**
 
-![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0a1628?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-0a1628?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=3776ab)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=2563EB)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=059669)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=2563EB)
 
 **🗄️ Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=4169e1)
-![MySQL](https://img.shields.io/badge/MySQL-0a1628?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=2563EB)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=2563EB)
 
 ---
 
@@ -145,14 +145,14 @@ I've built and delivered platforms across **EdTech, enterprise operations, and c
 
 <div align="center">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-1e293b?style=for-the-badge&logo=anthropic&logoColor=d4a017)
-![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=for-the-badge&logo=googlegemini&logoColor=4285f4)
-![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1e293b?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Bolt.new](https://img.shields.io/badge/Bolt.new-1e293b?style=for-the-badge&logo=lightning&logoColor=d4a017)
-![v0](https://img.shields.io/badge/v0-1e293b?style=for-the-badge&logo=vercel&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-1e293b?style=for-the-badge&logo=ollama&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Claude](https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=googlegemini&logoColor=2563EB)
+![Cursor](https://img.shields.io/badge/Cursor-0F172A?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-0F172A?style=for-the-badge&logoColor=059669)
+![v0](https://img.shields.io/badge/v0-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
 
 </div>
 
@@ -164,9 +164,9 @@ I use these tools as part of a **"Vibe Coding" rapid solutioning approach** — 
 
 <div align="center">
 
-![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0a1628?style=for-the-badge&logo=microsoftazure&logoColor=2563eb)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=2563EB)
 &nbsp;
-![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer%20Associate-0a1628?style=for-the-badge&logo=microsoftazure&logoColor=2563eb)
+![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer%20Associate-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=2563EB)
 
 </div>
 
@@ -192,25 +192,25 @@ I use these tools as part of a **"Vibe Coding" rapid solutioning approach** — 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1628?style=for-the-badge&logo=linkedin&logoColor=2563eb)](https://linkedin.com/in/hack3rslabs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=2563EB)](https://linkedin.com/in/hack3rslabs)
 &nbsp;
-[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Site-0a1628?style=for-the-badge&logo=googlechrome&logoColor=2563eb)](https://techwell.co.in)
+[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=2563EB)](https://techwell.co.in)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Discuss%20a%20Project-0a1628?style=for-the-badge&logo=gmail&logoColor=d4a017)](mailto:purushottam@techwell.co.in)
+[![Email](https://img.shields.io/badge/Email-Discuss%20a%20Project-0F172A?style=for-the-badge&logo=gmail&logoColor=059669)](mailto:purushottam@techwell.co.in)
 
 <br/><br/>
 
 **Open to discussing:**
 
-![Tech Consulting](https://img.shields.io/badge/Technology%20Consulting-1e293b?style=flat-square&logoColor=white)
+![Tech Consulting](https://img.shields.io/badge/Technology%20Consulting-0F172A?style=flat-square&logoColor=FFFFFF)
 &nbsp;
-![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-1e293b?style=flat-square&logoColor=white)
+![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-0F172A?style=flat-square&logoColor=FFFFFF)
 &nbsp;
-![AI Automation](https://img.shields.io/badge/AI%20Automation%20Advisory-1e293b?style=flat-square&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation%20Advisory-2563EB?style=flat-square&logoColor=FFFFFF)
 &nbsp;
-![AppSec](https://img.shields.io/badge/Application%20Security%20Audits-1e293b?style=flat-square&logoColor=white)
+![AppSec](https://img.shields.io/badge/Application%20Security%20Audits-0F172A?style=flat-square&logoColor=FFFFFF)
 &nbsp;
-![Enterprise Apps](https://img.shields.io/badge/Enterprise%20App%20Implementation-1e293b?style=flat-square&logoColor=white)
+![Enterprise Apps](https://img.shields.io/badge/Enterprise%20App%20Implementation-059669?style=flat-square&logoColor=FFFFFF)
 
 </div>
 
@@ -222,6 +222,6 @@ I use these tools as part of a **"Vibe Coding" rapid solutioning approach** — 
 
 **Purushottam Rao** · Technology & AI Automation Consultant · Hyderabad, India
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,35:1e3a5f,70:0f2545,100:0a1628&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=120&section=footer&animation=fadeIn" />
 
 </div>
