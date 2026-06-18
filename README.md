@@ -1,72 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,15:0d0730,40:1e1060,68:4338ca,85:7c3aed,100:a855f7&height=240&section=header&text=Purushottam%20Rao&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Founder&descAlignY=56&descColor=e9d5ff&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0f2545,60:1e3a5f,100:2c5282&height=230&section=header&text=Purushottam%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Technology%20Consultant%20%7C%20AI%20Automation%20Consultant%20%7C%20Application%20Security%20Consultant&descAlignY=58&descColor=cbd5e1&animation=fadeIn" />
 
-</div>
+<img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/consulting-banner.svg" alt="Consulting Value Flow" width="100%"/>
 
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=a78bfa&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Azure+DevSecOps+Engineer+%7C+AZ-104+%7C+AZ-500+Certified;6%2B+Years+Cloud+%26+Infrastructure+Engineering;Building+Secure+Multi-Tenant+Platforms+on+Azure;Open+to+Global+Opportunities+--+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=2563EB&background=00000000&center=true&vCenter=true&width=760&height=40&lines=10%2B%20Years%20Turning%20Business%20Problems%20Into%20Technology%20Solutions;Azure%20%26%20AWS%20Cloud%20%7C%20Application%20Security%20%7C%20AI%20Automation;ERP%20%C2%B7%20CRM%20%C2%B7%20HRMS%20%C2%B7%20Enterprise%20Application%20Consulting;n8n%20Workflows%20%7C%20AI%20Agents%20%7C%20Business%20Process%20Automation;Open%20to%20Consulting%2C%20Advisory%20%26%20Solution%20Architect%20Roles" alt="Typing SVG" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=7c3aed&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hack3rslabs&label=Profile%20Views&color=1e3a5f&style=flat-square)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/hack3rslabs?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hack3rslabs?label=Followers&style=flat-square&color=1e3a5f&labelColor=0a1628)](https://github.com/hack3rslabs?tab=followers)
 &nbsp;
-[![GitHub Repos](https://img.shields.io/badge/Repositories-9-1976d2?style=flat-square&logo=github&logoColor=white)](https://github.com/hack3rslabs?tab=repositories)
+![Status](https://img.shields.io/badge/Status-Open%20for%20Consulting%20Engagements-15803d?style=flat-square)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-059669?style=flat-square&logo=checkmarx&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-475569?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/cloud-security-banner.svg" alt="Cloud Security Network Animation" width="100%"/>
-</div>
+## 🧭 Executive Summary
+
+I am a **Technology & AI Automation Consultant** with **10+ years of IT experience**, specialising in translating business problems into secure, scalable technology solutions. My work spans **cloud architecture, application security, enterprise application implementation (ERP/CRM/HRMS), and AI-driven business process automation**.
+
+Rather than approaching projects from a pure engineering lens, I work as a **solution consultant** — diagnosing operational inefficiencies, designing the right technical architecture, and delivering measurable outcomes: faster lead conversion, automated counselling workflows, reduced manual ops overhead, and hardened application security postures.
+
+I've built and delivered platforms across **EdTech, enterprise operations, and customer engagement** — including AI career advisory agents, student counselling automation, lead management CRMs, billing systems, and full enterprise ERP/HRMS deployments — while also founding and scaling **Techwell**, an IT training and placement consultancy, and **TWIIS Innovation**, a technology venture registered under Startup India.
+
+---
+
+## 🎯 Recruiter-Focused Summary
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/terminal-animation.svg" alt="DevSecOps Terminal" width="100%"/>
+
+| | |
+|---|---|
+| **Target Roles** | Technology Consultant · AI Automation Consultant · Application Security Consultant · Enterprise Applications Consultant · Solution Consultant |
+| **Experience** | 10+ Years — Endpoint Engineering → Cloud → Security → AI Automation Consulting |
+| **Core Domains** | Cloud Architecture (Azure/AWS) · Application Security · AI Agent Automation · Enterprise Apps (ERP/CRM/HRMS) |
+| **Certifications** | Microsoft AZ-104 (Azure Administrator) · Microsoft AZ-500 (Azure Security Engineer) |
+| **Consulting Track Record** | Founder of 2 ventures · 50+ training courses delivered · 100s of professionals placed |
+| **Delivery Style** | Business-first diagnosis → Architecture design → Secure build → Automated delivery |
+| **Availability** | Open to Consulting, Advisory, Contract, and Full-Time Solution Architect roles |
+| **Location** | Hyderabad, India — Open to Remote / Hybrid / Global Engagements |
+
 </div>
 
 ---
 
-## 🧑‍💼 Professional Summary
+## 💼 Consulting Services
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Engineer Profile
-```yaml
-Role        : DevSecOps & Cloud Engineer
-Experience  : 6+ Years
-Cert 1      : AZ-104  Azure Administrator
-Cert 2      : AZ-500  Azure Security Engineer
-Platforms   : Azure · AKS · Docker · Kubernetes
-Automation  : Terraform · Ansible · GitHub Actions
-Security    : Sentinel · Defender · OWASP · SAST
-AI Tools    : GitHub Copilot · Azure OpenAI
-Specialty   : Multi-Tenant Secure Architectures
-GitHub Since: Jun 2018
-```
+**☁️ Cloud & Infrastructure Consulting**
+- Azure & AWS architecture design and migration
+- Multi-tenant application infrastructure
+- Cost optimisation and governance frameworks
+- Identity & access management (Azure AD/Entra)
+
+**🔐 Application Security Consulting**
+- OWASP-aligned security assessments
+- DevSecOps pipeline integration
+- Secure SDLC advisory
+- Cloud security posture management
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Expereince Profile
-```yaml
-Skills      : IT Consultant · Trainer · Enterprenuer 
-Company 1   : IIHT Pvt Ltd
-Company 2   : Techwell - IT Training & Placement
-Company 3   : GITAM University
-Courses     : 50+ across 9 tech domains
-Products    : LMS · ERP · JobBridge Platform
-Focus       : DevSecOps · APPSec · AI · Networking · Endpoint Security · Vibe coding
-Impact      : 100s of IT professionals placed
-Location    : Hyderabad, Telangana, India
-```
+**🤖 AI Automation Consulting**
+- AI agent design (career advisory, support, counselling)
+- n8n-based business process automation
+- LLM integration into existing enterprise workflows
+- AI-assisted "vibe coding" rapid prototyping
+
+**🏢 Enterprise Applications Consulting**
+- ERP / CRM / HRMS implementation & customisation
+- Lead management & sales pipeline systems
+- Billing & financial operations platforms
+- Student counselling & placement systems (EdTech)
 
 </td>
 </tr>
@@ -74,197 +90,127 @@ Location    : Hyderabad, Telangana, India
 
 ---
 
+## 🏗️ Featured Projects
+
+| Project | Description | Tech Stack | Type |
+|:---|:---|:---|:---:|
+| **AI Career Platform** | AI-driven career guidance and counselling agent for students and job seekers | Python · AI Agents · Next.js | Client Project |
+| **Student Counselling Agent** | Conversational AI agent automating student counselling and admissions guidance | n8n · AI Agents · PostgreSQL | Client Project |
+| **Lead Management CRM** | End-to-end CRM for lead capture, scoring, and sales pipeline automation | React · Node.js · PostgreSQL | Client Project |
+| **Customer Support Agent** | AI-powered support agent handling tier-1 customer queries automatically | AI Agents · n8n · Node.js | Client Project |
+| **n8n Automation Workflows** | Business process automation library — lead routing, notifications, data sync | n8n · REST APIs · Webhooks | Client Project |
+| **AI Business Automation Suite** | Cross-functional automation solutions for ops, sales, and support teams | AI Agents · n8n · Python | Client Project |
+| **Billing Application** | Multi-tenant billing and invoicing platform with GST/tax compliance | TypeScript · Node.js · PostgreSQL | [Open Source](https://github.com/hack3rslabs/SMS-ERP) |
+| [**ERP Application (SMS-ERP)**](https://github.com/hack3rslabs/SMS-ERP) | Secure multi-tenant school/enterprise ERP platform | TypeScript · Azure · MySQL | Open Source |
+| [**E-commerce Application (Elements)**](https://github.com/hack3rslabs/Elements) | Full-stack e-commerce platform for ceramic & construction materials | TypeScript · React · Node.js | Open Source |
+| [**HRMS / Techwell LMS**](https://github.com/hack3rslabs/techwell-lms) | HR, training & placement management system for an IT consultancy | TypeScript · React · Azure | Open Source |
+
+> 🔒 Several client engagements are under NDA and are described here at a level appropriate for public portfolios. Architecture walkthroughs available on request.
+
+---
+
+## ⚙️ Technology Stack
+
+**☁️ Cloud**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0a1628?style=for-the-badge&logo=microsoftazure&logoColor=2563eb)
+![AWS](https://img.shields.io/badge/AWS-0a1628?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
+
+**🔐 Security**
+
+![OWASP](https://img.shields.io/badge/OWASP-1e293b?style=for-the-badge&logo=owasp&logoColor=white)
+![AppSec](https://img.shields.io/badge/Application%20Security-1e293b?style=for-the-badge&logo=shieldcheck&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-1e293b?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**🤖 Automation**
+
+![n8n](https://img.shields.io/badge/n8n-1e293b?style=for-the-badge&logo=n8n&logoColor=ea4b71)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1e293b?style=for-the-badge&logo=robotframework&logoColor=white)
+
+**💻 Development**
+
+![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0a1628?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0a1628?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=3776ab)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![MySQL](https://img.shields.io/badge/MySQL-0a1628?style=for-the-badge&logo=mysql&logoColor=4479a1)
+
+---
+
+## 🧠 AI Tools & Workflow
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1e293b?style=for-the-badge&logo=anthropic&logoColor=d4a017)
+![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=for-the-badge&logo=googlegemini&logoColor=4285f4)
+![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1e293b?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-1e293b?style=for-the-badge&logo=lightning&logoColor=d4a017)
+![v0](https://img.shields.io/badge/v0-1e293b?style=for-the-badge&logo=vercel&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1e293b?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+I use these tools as part of a **"Vibe Coding" rapid solutioning approach** — prototyping client solutions quickly with AI-assisted development, then hardening them into production-grade, secure applications.
+
+---
+
 ## 🏅 Certifications
 
 <div align="center">
 
-[![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0a1628?style=for-the-badge&logo=microsoftazure&logoColor=2563eb)
 &nbsp;
-[![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
+![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer%20Associate-0a1628?style=for-the-badge&logo=microsoftazure&logoColor=2563eb)
+
+</div>
+
+| Certification | Issuer | Status |
+|:---|:---|:---:|
+| Azure Administrator Associate (AZ-104) | Microsoft | ✅ Certified |
+| Azure Security Engineer Associate (AZ-500) | Microsoft | ✅ Certified |
+
+---
+
+## 📚 Current Learning Roadmap
+
+- [ ] Advanced AI Agent Orchestration (multi-agent systems, tool-use patterns)
+- [ ] Application Security — OWASP Top 10 deep specialisation & threat modelling
+- [ ] Cloud Security Posture Management across Azure & AWS
+- [ ] Advanced n8n workflow architecture for enterprise-scale automation
+- [ ] Solution Architecture frameworks for technology consulting engagements
+- [ ] Expanding "Vibe Coding" practice — Cursor, Bolt.new, v0 for client rapid prototyping
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1628?style=for-the-badge&logo=linkedin&logoColor=2563eb)](https://linkedin.com/in/hack3rslabs)
+&nbsp;
+[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Site-0a1628?style=for-the-badge&logo=googlechrome&logoColor=2563eb)](https://techwell.co.in)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Discuss%20a%20Project-0a1628?style=for-the-badge&logo=gmail&logoColor=d4a017)](mailto:purushottam@techwell.co.in)
 
 <br/><br/>
 
-![Years](https://img.shields.io/badge/Experience-6%2B%20Years-7c3aed?style=for-the-badge&logo=calendar&logoColor=white)
+**Open to discussing:**
+
+![Tech Consulting](https://img.shields.io/badge/Technology%20Consulting-1e293b?style=flat-square&logoColor=white)
 &nbsp;
-![Commits](https://img.shields.io/badge/Total%20Commits-116%2B-6d28d9?style=for-the-badge&logo=git&logoColor=white)
+![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-1e293b?style=flat-square&logoColor=white)
 &nbsp;
-![Repos](https://img.shields.io/badge/Repositories-9%20Active-f59e0b?style=for-the-badge&logo=github&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation%20Advisory-1e293b?style=flat-square&logoColor=white)
 &nbsp;
-![Ventures](https://img.shields.io/badge/Ventures%20Founded-2-ffd600?style=for-the-badge&logo=rocket&logoColor=black)
-
-</div>
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-[![Cloud & DevSecOps Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,github,githubactions,ansible,grafana,prometheus,vscode,python,typescript,nodejs,react,bash,linux&perline=8)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**☁️ Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![AKS](https://img.shields.io/badge/Azure%20AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**🐳 Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-**⚙️ Automation & CI/CD**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**🔐 Security & Observability**
-
-![Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Defender](https://img.shields.io/badge/Defender%20for%20Cloud-00B4D8?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-**💻 Languages & Frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**🤖 AI & Developer Tools**
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-D4783A?style=for-the-badge&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=hack3rslabs&theme=dark&background=0d0a1e&border=7c3aed&ring=a855f7&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=10&stroke=7c3aed" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0d0a1e&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed30&hide_border=false&border_color=7c3aed&radius=8&custom_title=Contribution%20Activity%20Graph)](https://github.com/hack3rslabs)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:---:|:---|:---|
-| 🛡️ | **AZ-500 — Azure Security Engineer Associate** | Microsoft Certified · Active |
-| ☁️ | **AZ-104 — Azure Administrator Associate** | Microsoft Certified · Active |
-| ⏱️ | **6+ Years Cloud & DevSecOps Engineering** | GitHub member since June 2018 |
-| 💻 | **Multi-Language Developer** | TypeScript · Python · JS · PowerShell · Bash |
-| 🔥 | **Consistent Builder** | 116+ commits · 9 active repositories |
-| 🌐 | **Full-Stack DevSecOps** | Cloud → Code → Security → Deploy |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AppSec](https://img.shields.io/badge/Application%20Security%20Audits-1e293b?style=flat-square&logoColor=white)
 &nbsp;
-![AZ-500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-&nbsp;
-![Since 2018](https://img.shields.io/badge/GitHub%20Since-2018-181717?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-![6+ Years](https://img.shields.io/badge/Experience-6%2B%20Years-7c3aed?style=for-the-badge&logoColor=white)
-
-<br/><br/>
-
-![Founder](https://img.shields.io/badge/Founder-TWIIS%20Innovation-f59e0b?style=for-the-badge&logoColor=white)
-&nbsp;
-![Techwell](https://img.shields.io/badge/Founder-Techwell%20EdTech-6d28d9?style=for-the-badge&logoColor=white)
-&nbsp;
-![Commits](https://img.shields.io/badge/Commits-116%2B-7c3aed?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![Repos](https://img.shields.io/badge/Repositories-9%20Active-4338ca?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ Projects & Repositories
-
-### 📌 Public Repositories
-
-| Repository | Description | Language | Status |
-|:---|:---|:---:|:---:|
-| [**techwell-lms**](https://github.com/hack3rslabs/techwell-lms) | Full-stack Learning Management System for IT training institute | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-| [**twiis**](https://github.com/hack3rslabs/twiis) | TWIIS Innovations — Startup India registered DevSecOps company | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-| [**SMS-ERP**](https://github.com/hack3rslabs/SMS-ERP) | Secure multi-tenant school management ERP platform | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-| [**Elements**](https://github.com/hack3rslabs/Elements) | E-commerce platform for ceramic & construction materials | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-| [**Hibeaminfotech**](https://github.com/hack3rslabs/Hibeaminfotech) | IT solutions company website — Visakhapatnam | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-| [**Assetmgmt**](https://github.com/hack3rslabs/Assetmgmt) | Enterprise asset management system | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-| [**Training_Modules**](https://github.com/hack3rslabs/Training_Modules) | IT training course content and modules | ![Docs](https://img.shields.io/badge/Docs-546e7a?style=flat-square) | ![Active](https://img.shields.io/badge/Active-00c853?style=flat-square) |
-
-### 🎯 Key Career Projects
-
-| Project | Role | Impact | Stack |
-|:---|:---|:---|:---|
-| **NextGen Campus Platform** | Lead Architect | Secure multi-tenant university management with Azure AD | Azure · AKS · TypeScript · React |
-| **PatientCare360** | DevSecOps Lead | HIPAA-compliant healthcare platform with real-time monitoring | Docker · K8s · Node.js · Azure |
-| **Campus AD+** | Cloud Engineer | Azure Entra ID automation across campus environments | Azure AD · PowerShell · Ansible |
-| **SystemMetrics Agent** | Platform Engineer | Enterprise-wide Windows monitoring with GPO/Intune deploy | PowerShell · Azure Monitor |
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hack3rslabs)
-&nbsp;
-[![Techwell](https://img.shields.io/badge/Techwell-Visit%20Our%20Institute-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techwell.co.in)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottam@techwell.co.in)
-
-<br/><br/>
-
-**💼 Available For**
-
-![DevSecOps](https://img.shields.io/badge/DevSecOps%20Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-&nbsp;
-![Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-1565c0?style=flat-square&logo=microsoftazure&logoColor=white)
-&nbsp;
-![Platform Engineer](https://img.shields.io/badge/Platform%20Engineering-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-&nbsp;
-![AI Engineering](https://img.shields.io/badge/AI%20%26%20ML%20Engineering-412991?style=flat-square&logo=openai&logoColor=white)
-&nbsp;
-![Consulting](https://img.shields.io/badge/Tech%20Consulting-ff6f00?style=flat-square&logo=handshake&logoColor=white)
-&nbsp;
-![Advisor](https://img.shields.io/badge/Startup%20Advisor-ffd600?style=flat-square&logo=rocket&logoColor=black)
+![Enterprise Apps](https://img.shields.io/badge/Enterprise%20App%20Implementation-1e293b?style=flat-square&logoColor=white)
 
 </div>
 
@@ -272,14 +218,10 @@ Location    : Hyderabad, Telangana, India
 
 <div align="center">
 
-<br/>
+*"The best technology consultants don't sell tools — they solve business problems, and let the right tools follow."*
 
-*"Security is not a product, but a process — build it into everything."*
+**Purushottam Rao** · Technology & AI Automation Consultant · Hyderabad, India
 
-**Purushottam Rao** · hack3rslabs  · Hyderabad, India 🇮🇳
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:4338ca,75:1e1060,100:050510&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,35:1e3a5f,70:0f2545,100:0a1628&height=120&section=footer&animation=fadeIn" />
 
 </div>
