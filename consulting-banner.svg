@@ -1,0 +1,89 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="45%" style="stop-color:#0f2545"/>
+      <stop offset="75%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#2c5282"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)" rx="10"/>
+
+  <!-- Subtle grid -->
+  <g stroke="#3b5a7a" stroke-width="0.3" opacity="0.25">
+    <line x1="0" y1="50" x2="900" y2="50"/>
+    <line x1="0" y1="100" x2="900" y2="100"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="150" y1="0" x2="150" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="450" y1="0" x2="450" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="750" y1="0" x2="750" y2="200"/>
+  </g>
+
+  <!-- Connection lines: business -> tech -> outcome flow -->
+  <g stroke="#5b8fc7" stroke-width="1" opacity="0.55" filter="url(#glow)">
+    <line x1="90" y1="100" x2="260" y2="70">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="260" y1="70" x2="430" y2="120">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="430" y1="120" x2="600" y2="65">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="65" x2="780" y2="110">
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="260" y1="70" x2="600" y2="65">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Nodes -->
+  <circle cx="90" cy="100" r="16" fill="#0f2545" stroke="#5b8fc7" stroke-width="1.4" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="90" y="105" text-anchor="middle" font-size="13" font-family="monospace">🏢</text>
+  <text x="90" y="135" text-anchor="middle" font-size="8" fill="#8fa8c4" font-family="monospace">Business Need</text>
+
+  <circle cx="260" cy="70" r="16" fill="#0f2545" stroke="#b8860b" stroke-width="1.4" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="260" y="75" text-anchor="middle" font-size="13" font-family="monospace">☁️</text>
+  <text x="260" y="105" text-anchor="middle" font-size="8" fill="#d4a847" font-family="monospace">Cloud Strategy</text>
+
+  <circle cx="430" cy="120" r="18" fill="#16335c" stroke="#5b8fc7" stroke-width="1.6" filter="url(#glow)">
+    <animate attributeName="r" values="17;20;17" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="430" y="126" text-anchor="middle" font-size="14" font-family="monospace">🔐</text>
+  <text x="430" y="155" text-anchor="middle" font-size="8" fill="#8fa8c4" font-family="monospace">AppSec &amp; DevSecOps</text>
+
+  <circle cx="600" cy="65" r="16" fill="#0f2545" stroke="#5b8fc7" stroke-width="1.4" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="70" text-anchor="middle" font-size="13" font-family="monospace">🤖</text>
+  <text x="600" y="100" text-anchor="middle" font-size="8" fill="#8fa8c4" font-family="monospace">AI Automation</text>
+
+  <circle cx="780" cy="110" r="16" fill="#0f2545" stroke="#b8860b" stroke-width="1.4" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="780" y="115" text-anchor="middle" font-size="13" font-family="monospace">📈</text>
+  <text x="780" y="145" text-anchor="middle" font-size="8" fill="#d4a847" font-family="monospace">Measurable ROI</text>
+
+  <!-- Travelling data point along the flow -->
+  <circle r="3" fill="#b8860b" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M90,100 L260,70 L430,120 L600,65 L780,110"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bottom strap line -->
+  <text x="450" y="180" text-anchor="middle" font-size="10" fill="#5b8fc7" font-family="monospace" letter-spacing="5">
+    CONSULT  ·  DESIGN  ·  AUTOMATE  ·  SECURE  ·  DELIVER
+  </text>
+</svg>
