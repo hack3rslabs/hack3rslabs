@@ -46,6 +46,27 @@ motto       : "Build it right. Secure it first. Automate the rest."
 
 ---
 
+## ⚡ Currently Focused On
+
+<div align="center">
+
+![Vibe Coding](https://img.shields.io/badge/🔥_Vibe_Coding-Cursor_%7C_Bolt.new_%7C_v0-0F172A?style=for-the-badge&logoColor=FFFFFF)
+&nbsp;
+![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-n8n_%7C_LangGraph_%7C_CrewAI-2563EB?style=for-the-badge&logoColor=FFFFFF)
+&nbsp;
+![DevSecOps](https://img.shields.io/badge/🔐_DevSecOps-SAST_%7C_OWASP_%7C_Pipeline-059669?style=for-the-badge&logoColor=FFFFFF)
+
+</div>
+
+```
+🔨 Building  → AI-assisted full-stack apps using Cursor + Bolt.new + v0
+🔐 Securing  → Integrating SAST/DAST scans into every CI/CD pipeline
+🤖 Automating → Multi-agent n8n workflows for real business workflows
+🎓 Training  → Azure AZ-104/AZ-500 + DevSecOps + AI Automation cohorts
+```
+
+---
+
 ## 🛠️ What I Do
 
 I've spent **10+ years working across the full IT stack** — from managing endpoints and network infra, to architecting on Azure, securing applications at the code level, and now building AI-powered automation systems.
@@ -56,7 +77,45 @@ I also **train IT professionals** — having delivered 50+ courses across cloud,
 
 ---
 
+## 🔐 DevSecOps Pipeline
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/main/devsecops-pipeline.svg" width="100%" alt="DevSecOps CI/CD Pipeline"/>
+</div>
+
+> Every project I ship goes through this pipeline — **security is never a last step.**
+
+---
+
+## 🤖 How I Use AI — Daily Workflow
+
+| Tool | How I Actually Use It |
+|:---|:---|
+| **Cursor** | Primary IDE — AI pair programmer for every repo I touch |
+| **Bolt.new** | Rapid prototype entire full-stack apps in minutes |
+| **v0** | UI components and frontend scaffolding |
+| **GitHub Copilot** | Inline code suggestions, test generation, docstrings |
+| **Claude** | Architecture decisions, code review, security analysis |
+| **ChatGPT** | Research, writing, explaining complex concepts to clients |
+| **Gemini** | Google ecosystem tasks, long-context document analysis |
+| **n8n** | Automated workflows — lead routing, notifications, AI triggers |
+| **Ollama** | Local LLM testing — run models privately before integrating |
+
+> This isn't just a tools list — it's a **production workflow**. I vibe-code client deliverables using this stack daily.
+
+---
+
 ## ⚙️ Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible,github,githubactions&perline=8)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,postgres,mysql,linux&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -166,6 +225,22 @@ Delivered from architecture through to production deployment with role-based acc
 
 ---
 
+## 📌 Repositories
+
+<div align="center">
+
+[![techwell-lms](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=techwell-lms&bg_color=0F172A&border_color=2563EB&title_color=2563EB&text_color=CBD5E1&icon_color=059669&border_radius=10)](https://github.com/hack3rslabs/techwell-lms)
+&nbsp;
+[![Elements](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=Elements&bg_color=0F172A&border_color=2563EB&title_color=2563EB&text_color=CBD5E1&icon_color=059669&border_radius=10)](https://github.com/hack3rslabs/Elements)
+
+[![SMS-ERP](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=SMS-ERP&bg_color=0F172A&border_color=059669&title_color=059669&text_color=CBD5E1&icon_color=2563EB&border_radius=10)](https://github.com/hack3rslabs/SMS-ERP)
+&nbsp;
+[![twiis](https://github-readme-stats.vercel.app/api/pin/?username=hack3rslabs&repo=twiis&bg_color=0F172A&border_color=2563EB&title_color=2563EB&text_color=CBD5E1&icon_color=059669&border_radius=10)](https://github.com/hack3rslabs/twiis)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -186,6 +261,20 @@ Delivered from architecture through to production deployment with role-based acc
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack3rslabs&bg_color=0F172A&color=2563EB&line=2563EB&point=059669&area=true&area_color=2563EB22&hide_border=false&border_color=2563EB&radius=8&custom_title=Contribution%20Activity)](https://github.com/hack3rslabs)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hack3rslabs/hack3rslabs/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
