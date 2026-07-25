@@ -1,0 +1,57 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A"/>
+      <stop offset="50%" style="stop-color:#1E293B"/>
+      <stop offset="100%" style="stop-color:#0F172A"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)" rx="10"/>
+  <!-- grid -->
+  <g stroke="#2563EB" stroke-width="0.3" opacity="0.12">
+    <line x1="0" y1="45" x2="900" y2="45"/><line x1="0" y1="90" x2="900" y2="90"/><line x1="0" y1="135" x2="900" y2="135"/>
+    <line x1="128" y1="0" x2="128" y2="180"/><line x1="256" y1="0" x2="256" y2="180"/><line x1="384" y1="0" x2="384" y2="180"/>
+    <line x1="512" y1="0" x2="512" y2="180"/><line x1="640" y1="0" x2="640" y2="180"/><line x1="768" y1="0" x2="768" y2="180"/>
+  </g>
+  <!-- flow lines -->
+  <g filter="url(#glow)">
+    <line x1="75" y1="90" x2="215" y2="65" stroke="#2563EB" stroke-width="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="215" y1="65" x2="355" y2="105" stroke="#2563EB" stroke-width="1.2"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.7s" repeatCount="indefinite"/></line>
+    <line x1="355" y1="105" x2="495" y2="60" stroke="#2563EB" stroke-width="1.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.3s" repeatCount="indefinite"/></line>
+    <line x1="495" y1="60" x2="635" y2="100" stroke="#2563EB" stroke-width="1.2"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="2.9s" repeatCount="indefinite"/></line>
+    <line x1="635" y1="100" x2="800" y2="68" stroke="#059669" stroke-width="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.1s" repeatCount="indefinite"/></line>
+  </g>
+  <!-- nodes -->
+  <circle cx="75" cy="90" r="15" fill="#0F172A" stroke="#2563EB" stroke-width="1.5" filter="url(#glow)"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="75" y="95" text-anchor="middle" font-size="12">🖥️</text>
+  <text x="75" y="118" text-anchor="middle" font-size="7" fill="#94A3B8" font-family="monospace">Endpoint</text>
+
+  <circle cx="215" cy="65" r="15" fill="#0F172A" stroke="#2563EB" stroke-width="1.5" filter="url(#glow)"><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.7s" repeatCount="indefinite"/></circle>
+  <text x="215" y="70" text-anchor="middle" font-size="12">☁️</text>
+  <text x="215" y="46" text-anchor="middle" font-size="7" fill="#2563EB" font-family="monospace">Cloud · Azure</text>
+
+  <circle cx="355" cy="105" r="16" fill="#0F172A" stroke="#2563EB" stroke-width="1.6" filter="url(#glow)"><animate attributeName="r" values="15;18;15" dur="2.3s" repeatCount="indefinite"/></circle>
+  <text x="355" y="111" text-anchor="middle" font-size="13">🔐</text>
+  <text x="355" y="134" text-anchor="middle" font-size="7" fill="#94A3B8" font-family="monospace">DevSecOps</text>
+
+  <circle cx="495" cy="60" r="15" fill="#0F172A" stroke="#2563EB" stroke-width="1.5" filter="url(#glow)"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.3s" repeatCount="indefinite"/></circle>
+  <text x="495" y="65" text-anchor="middle" font-size="12">🤖</text>
+  <text x="495" y="41" text-anchor="middle" font-size="7" fill="#2563EB" font-family="monospace">AI · Automation</text>
+
+  <circle cx="635" cy="100" r="15" fill="#0F172A" stroke="#2563EB" stroke-width="1.5" filter="url(#glow)"><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.9s" repeatCount="indefinite"/></circle>
+  <text x="635" y="105" text-anchor="middle" font-size="12">⚡</text>
+  <text x="635" y="128" text-anchor="middle" font-size="7" fill="#94A3B8" font-family="monospace">Vibe Coding</text>
+
+  <circle cx="800" cy="68" r="17" fill="#0F172A" stroke="#059669" stroke-width="1.8" filter="url(#glow)"><animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <text x="800" y="74" text-anchor="middle" font-size="13">🎯</text>
+  <text x="800" y="47" text-anchor="middle" font-size="7" fill="#059669" font-family="monospace" font-weight="bold">Deliver</text>
+
+  <!-- travelling dot -->
+  <circle r="3" fill="#059669" filter="url(#glow)">
+    <animateMotion dur="4.5s" repeatCount="indefinite" path="M75,90 L215,65 L355,105 L495,60 L635,100 L800,68"/>
+    <animate attributeName="opacity" values="0;1;1;1;1;0" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- footer text -->
+  <text x="450" y="166" text-anchor="middle" font-size="9" fill="#2563EB" font-family="monospace" letter-spacing="5">BUILD  ·  SECURE  ·  AUTOMATE  ·  TRAIN  ·  DELIVER</text>
+</svg>
