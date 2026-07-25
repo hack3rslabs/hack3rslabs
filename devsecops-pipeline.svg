@@ -1,0 +1,111 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0F172A"/>
+      <stop offset="50%" style="stop-color:#1E293B"/>
+      <stop offset="100%" style="stop-color:#0F172A"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#2563EB" opacity="0.7"/>
+    </marker>
+  </defs>
+  <rect width="900" height="110" fill="url(#bg)" rx="10"/>
+
+  <!-- Stage boxes -->
+  <!-- 1: Code -->
+  <rect x="18" y="28" width="100" height="52" rx="8" fill="#0F172A" stroke="#2563EB" stroke-width="1.4">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="68" y="50" text-anchor="middle" font-size="16" font-family="monospace">💻</text>
+  <text x="68" y="65" text-anchor="middle" font-size="9" fill="#CBD5E1" font-family="monospace">CODE</text>
+  <text x="68" y="75" text-anchor="middle" font-size="7" fill="#475569" font-family="monospace">Cursor · Copilot</text>
+
+  <!-- arrow -->
+  <line x1="120" y1="54" x2="148" y2="54" stroke="#2563EB" stroke-width="1.2" marker-end="url(#arrow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 2: Build -->
+  <rect x="152" y="28" width="100" height="52" rx="8" fill="#0F172A" stroke="#2563EB" stroke-width="1.4">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.2s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="202" y="50" text-anchor="middle" font-size="16">🔨</text>
+  <text x="202" y="65" text-anchor="middle" font-size="9" fill="#CBD5E1" font-family="monospace">BUILD</text>
+  <text x="202" y="75" text-anchor="middle" font-size="7" fill="#475569" font-family="monospace">GitHub Actions</text>
+
+  <!-- arrow -->
+  <line x1="254" y1="54" x2="282" y2="54" stroke="#2563EB" stroke-width="1.2" marker-end="url(#arrow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 3: Test -->
+  <rect x="286" y="28" width="100" height="52" rx="8" fill="#0F172A" stroke="#2563EB" stroke-width="1.4">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="336" y="50" text-anchor="middle" font-size="16">🧪</text>
+  <text x="336" y="65" text-anchor="middle" font-size="9" fill="#CBD5E1" font-family="monospace">TEST</text>
+  <text x="336" y="75" text-anchor="middle" font-size="7" fill="#475569" font-family="monospace">Unit · Integration</text>
+
+  <!-- arrow -->
+  <line x1="388" y1="54" x2="416" y2="54" stroke="#2563EB" stroke-width="1.2" marker-end="url(#arrow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 4: Security Scan (highlighted) -->
+  <rect x="420" y="22" width="112" height="64" rx="8" fill="#0F172A" stroke="#059669" stroke-width="1.8">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="476" y="46" text-anchor="middle" font-size="16">🔐</text>
+  <text x="476" y="61" text-anchor="middle" font-size="9" fill="#059669" font-family="monospace" font-weight="bold">SECURITY</text>
+  <text x="476" y="73" text-anchor="middle" font-size="7" fill="#475569" font-family="monospace">SAST · OWASP · Trivy</text>
+
+  <!-- arrow -->
+  <line x1="534" y1="54" x2="562" y2="54" stroke="#2563EB" stroke-width="1.2" marker-end="url(#arrow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 5: Package -->
+  <rect x="566" y="28" width="100" height="52" rx="8" fill="#0F172A" stroke="#2563EB" stroke-width="1.4">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.3s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="616" y="50" text-anchor="middle" font-size="16">🐳</text>
+  <text x="616" y="65" text-anchor="middle" font-size="9" fill="#CBD5E1" font-family="monospace">PACKAGE</text>
+  <text x="616" y="75" text-anchor="middle" font-size="7" fill="#475569" font-family="monospace">Docker · Helm</text>
+
+  <!-- arrow -->
+  <line x1="668" y1="54" x2="696" y2="54" stroke="#2563EB" stroke-width="1.2" marker-end="url(#arrow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 6: Deploy -->
+  <rect x="700" y="28" width="100" height="52" rx="8" fill="#0F172A" stroke="#059669" stroke-width="1.6">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.5s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="750" y="50" text-anchor="middle" font-size="16">🚀</text>
+  <text x="750" y="65" text-anchor="middle" font-size="9" fill="#059669" font-family="monospace" font-weight="bold">DEPLOY</text>
+  <text x="750" y="75" text-anchor="middle" font-size="7" fill="#475569" font-family="monospace">AKS · Azure · ArgoCD</text>
+
+  <!-- arrow -->
+  <line x1="802" y1="54" x2="830" y2="54" stroke="#059669" stroke-width="1.2" marker-end="url(#arrow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="1.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 7: Monitor -->
+  <rect x="834" y="28" width="52" height="52" rx="8" fill="#0F172A" stroke="#2563EB" stroke-width="1.4">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.1s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="860" y="50" text-anchor="middle" font-size="14">📊</text>
+  <text x="860" y="65" text-anchor="middle" font-size="7.5" fill="#CBD5E1" font-family="monospace">MONITOR</text>
+  <text x="860" y="74" text-anchor="middle" font-size="6.5" fill="#475569" font-family="monospace">Grafana</text>
+
+  <!-- travelling packet -->
+  <circle r="4" fill="#059669" filter="url(#g)">
+    <animateMotion dur="3.5s" repeatCount="indefinite"
+      path="M68,54 L202,54 L336,54 L476,54 L616,54 L750,54 L860,54"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- label -->
+  <text x="450" y="100" text-anchor="middle" font-size="8.5" fill="#2563EB" font-family="monospace" letter-spacing="4">DevSecOps  CI/CD  PIPELINE</text>
+</svg>
